@@ -31,7 +31,7 @@ enableEmoji: true
 
 # Site parameters
 params:
-  background: themes/toha/assets/images/default-background.jpg
+  background: /themes/toha/assets/images/default-background.jpg
   # GitHub repo URL of your site
   gitRepo: https://github.com/JJGuo215/jjguo.github.io
 
