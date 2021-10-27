@@ -5,6 +5,7 @@ section:
   enable: true
   weight: 1
   showOnNavbar: true
+  template: sections/about.html
 
 # your designation
 designation: Business Analyst
