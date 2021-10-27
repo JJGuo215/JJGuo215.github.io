@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+  # Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Data Analysis
+  summary: "Experiences about data collection, data analysis and reports to stakeholders. Good at statistical tools like SPSS, Minitab and Excel."
+
+- name: Lean/Six Sigma
+  summary: "Familiar with process improvement tools including: RCA, SIPOC, FMEA, Data Modelling, Use Case, etc. Gained Honeywell Six Sigma Green Belt Certificate."
+
+- name: CMMi
+  summary: "Know well about continuous process improvement. Support the organisation (Honeywell) to pass the CMMi Level 5 appraisal."
+
+- name: PMO
+  summary: "Work as the key member of PMO team. Know well about Agile and Waterfall project development cycle."
+
+- name: Network Administration
+  summary: "Familiar with network architecture and security as well as routing and subnetting. Good knowledge about blockchain especially Hyperledger Fabric."
+
+- name: Web Development 
+  summary: "Developing responsive web pages with HTML, CSS, JavaScript, PHP, Bootstrap, MySQL."
+

@@ -1,0 +1,35 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+  # filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+
+# your projects
+projects:
+- name: Cross-Blockchain Interaction 
+  role: project owner
+  timeline: "Jul 2020 - Jul 2021"
+  summary: Develop APIs (javascript) to achieve cross-chain smart contract interaction so that data consistency is maintained across multiple Hyperledger Fabric based blockchains. Test and analyse the consistency and efficiency of the application with statistical tools.
+  tags: ["academic", "blockchain", "smart contract"]
+
+- name: B2B e-commerce applications
+  role: business analyst
+  timeline: "Nov 2016 - Aug 2017"
+  summary: Develop the website and mobile applications (both Android and iOS) for the new B2B e-commerce business model. All stakeholders including customers, logistics, warehouses, sales, financial staff can operate through this application.
+  tags: ["professional", "B2B", "e-commerce"]
+
+- name: iInvest Applications
+  role: business analyst
+  timeline: "Apr 2014 - Dec 2016"
+  summary: iInvest is .Net platform which support applications like Asset Management System, Key Account Management System, EDI Reporting System. The applications support different business process, performance appraisal and business reports.
+  tags: ["professional", ".Net", "sales support"]

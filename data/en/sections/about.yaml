@@ -1,0 +1,58 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Business Analyst
+# your company information
+company:
+  name: Budweiser
+  url: "https://www.budweiser.com/"
+
+
+# a summary about you
+summary: 'I have a master degree in Information Technology and Systems. I am a passionate Business Analyst with 5 years of working experience. I have PMP, ITIL, Six Sigma Green Belt Certificates. I am familiar with Agile software development. I work as the key member of PMO team and cooperate with suppliers, business partners, customers, and other stakeholders in IT projects.If my profile interests you, please feel free to contact me through the email icon below.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "jjguo11@gmail.com"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: PMP
+  url: "https://www.pmi.org/certifications/project-management-pmp"
+  badge: "https://images.credly.com/size/680x680/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png"
+- type: certification
+  name: Six Sigma Green Belt
+  url: "https://www.honeywell.com/"
+  badge: "https://thinkthyme.com/wp-content/uploads/2018/04/Six-Sigma-in-project-managemen.jpg"
+- type: certification
+  name: ITIL Foundation
+  url: "https://www.ddls.com.au/certificates/itil/"
+  badge: "https://alenia.io/wp-content/uploads/2020/01/ITIL-service-lifecycle-.png"
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 95
+  color: yellow
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: blue
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 90
+  color: orange
+
+
+

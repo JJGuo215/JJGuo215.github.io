@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: University Of Tasmania
+    url: "https://www.utas.edu.au/"
+    location: Hobart
+  positions:
+  - designation: Researcher
+    start: July 2020
+    end: July 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - As partial fulfilment of the requirements for the degree of Master of Information Technology and Systems, I independently worked on the research project about blockchain networks and smart contracts.
+    - Configurate different blockchain networks and write smart contracts with JavaScript. Develop APIs to connect different networks and make them exchange information.
+    - Complete the experiments, collect data, analyze data with shell scripting and other statistical tools. 
+
+- company:
+    name: ITS Management Pty Ltd
+    url: "https://yellowsite.net/detail/1270610/its-management-bondi-junction-new-south-wales"
+    location: Sydney
+  positions: 
+  - designation: Customer Service Operator
+    start: Sep 2017
+    end: Mar 2018
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Help customers to resolve technical issues such as password reset, missing deposit and website access failures through the Customer Management System(CMS).
+    - Provide services to online casino players via live chat.
+    - Conduct market survey and promotions.
+    - Handle customer complaints with positive attitude.
+
+- company:
+    name: Anheuser-Busch Inbev (Budweiser)
+    url: "https://www.ab-inbev.com/"
+    location: Shanghai
+  positions: 
+  - designation: IT Business Analyst
+    start: Apr 2014
+    end: Aug 2017
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Attending market investigation including visiting retailers and business partners to understand business operations. Analyze and document business requirements, project scopes, and business cases.
+    - Identifying problems and issues of existing processes and working with project stakeholders to develop optimal processes and practices.
+    - Investigating the gaps between business requirements and existing company systems, evaluating existing inefficiencies, and proposing new features for company system functionalities.
+    - Attending the whole project cycle (waterfall or agile) , monitor the project milestones, prepare appraisal reports and host stakeholder meetings.
+
+- company:
+    name: Honeywell
+    url: "https://www.honeywell.com/us/en"
+    location: Shanghai
+  positions: 
+  - designation: Project Analyst (PMO)
+    start: Jan 2011
+    end: Mar 2014
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Working with users, clients, and project managers to define the problem statement, requirements, project objectives, and scopes. 
+    - Working on project documents including project plans, system design, implementation, testing, training, and project closure.  
+    - Practice Lean and Six sigma process improvement.
+    - Support the organization to pass CMMi Level 5 appraisal.
