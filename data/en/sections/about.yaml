@@ -8,15 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Business Analyst
+designation: IT Consultant
 # your company information
 company:
-  name: Budweiser
-  url: "https://www.budweiser.com/"
+  name: Glass Wall Lab
+  url: "https://www.glasswalllab.com.au/"
 
 
 # a summary about you
-summary: 'I have a master degree in Information Technology and Systems. I am a passionate Business Analyst with 5 years of working experience. I have PMP, ITIL, Six Sigma Green Belt Certificates. I am familiar with Agile software development. I work as the key member of PMO team and cooperate with suppliers, business partners, customers, and other stakeholders in IT projects.If my profile interests you, please feel free to contact me through the email icon below.'
+summary: '• Master Degree in Information Technology and Systems
+• 5+ years IT project management experiences
+• Certification: PMP, ITIL, Six Sigma Green Belt
+• Experiences: System Implementation, Business Analysis, Quantity Assurance, CMMi'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
