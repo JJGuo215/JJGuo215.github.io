@@ -9,13 +9,27 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Glass Wall Lab
+    url: "https://www.glasswalllab.com.au/"
+    location: Hobart
+  positions:
+  - designation: Consultant
+    start: Dec 2021
+    end: Now
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Business requirement analysis, process mapping and gap analysis
+    - System implementation including Business Central/ Wiise and Sharperlight
+    - Project management and doucmentation
+
+- company:
     name: University Of Tasmania
     url: "https://www.utas.edu.au/"
     location: Hobart
   positions:
   - designation: Researcher
-    start: July 2020
-    end: July 2021
+    start: Jul 2020
+    end: Jul 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - As partial fulfilment of the requirements for the degree of Master of Information Technology and Systems, I independently worked on the research project about blockchain networks and smart contracts.
