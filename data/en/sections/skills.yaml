@@ -9,17 +9,17 @@ section:
   # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Data Analysis
-  summary: "Experiences about data collection, data analysis and reports to stakeholders. Good at statistical tools including SPSS, Minitab and Excel."
-
-- name: Lean/Six Sigma/CMMi
-  summary: "Familiar with process improvement tools including: RCA, SIPOC, FMEA, Data Modelling, Use Case, etc. Gained Honeywell Six Sigma Green Belt Certificate."
-
+- name: Business Analysis
+  summary: "Analyse business requirements, develop process maps, prepare proposal and work on requirement documents."
+  
 - name: System Implementation
-  summary: "Conduct requirement analysis and system implementation (e.g., Business Central/ Wiise) for clients."
+  summary: "Conduct data migration and system configuration including Business Central, KeyPay, Power Automate, Sharperlight, etc."
 
 - name: Project Management
   summary: "Project management professional with excellent IT project management skills. Know well about Agile project development cycle."
+
+- name: Lean/Six Sigma/CMMi
+  summary: "Familiar with process improvement tools including: RCA, SIPOC, FMEA, Data Modelling, Use Case, etc. Gained Honeywell Six Sigma Green Belt Certificate."
 
 - name: Network Administration
   summary: "Familiar with network architecture and security as well as routing and subnetting. Good knowledge about blockchain especially Hyperledger Fabric."
