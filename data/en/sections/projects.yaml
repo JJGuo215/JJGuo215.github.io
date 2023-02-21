@@ -21,12 +21,6 @@ projects:
   timeline: "Jan 2022 - Now"
   summary: Assess current systems, define requirements for the new system, evaluate vendor selection, data migration and new system configuration, testing and training, system go-live, and on going support.
   tags: ["professional", "KeyPay", "Business Central", "Power Automate"]
-  
-- name: Cross-Blockchain Interaction 
-  role: Researcher
-  timeline: "Jul 2020 - Jul 2021"
-  summary: Develop APIs (javascript) to achieve cross-chain smart contract interaction so that data consistency is maintained across multiple Hyperledger Fabric based blockchains. Test and analyse the consistency and efficiency of the application with statistical tools.
-  tags: ["academic", "blockchain", "smart contract"]
 
 - name: B2B e-commerce applications
   role: Project Manager
