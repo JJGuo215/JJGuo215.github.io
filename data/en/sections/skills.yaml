@@ -10,7 +10,7 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Business Analysis
-  summary: "Analyse business requirements, develop process maps, prepare proposal and work on requirement documents."
+  summary: "Analyse business requirements, develop process maps, prepare proposals and work on requirement documents."
   
 - name: System Implementation
   summary: "Conduct data migration and system configuration including Business Central, KeyPay, Power Automate, Sharperlight, etc."
