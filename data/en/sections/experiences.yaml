@@ -18,9 +18,10 @@ experiences:
     end: Now
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Meeting with clients, conduct business requirement analysis and work on the business requirement documents. Investigate the gaps between the client's requirements and their existing systems, evaluating existing inefficiencies, and proposing how our solution can help to acheive the objectives.
+    - Meeting with clients, conduct business requirement analysis and work on the business requirement documents. 
+    - Investigate the gaps between the client's requirements and their existing systems, evaluating existing inefficiencies, and proposing how our solution can help to acheive the objectives.
     - Data migration and system implementation including Business Central/ Wiise, KeyPay, Power Automate, Sharperlight, etc.
-    - Project management and doucmentation: monitor project progress, report to stakeholders, write user manuals, etc.
+    - Project management and doucmentation. Monitor project progress, report to stakeholders, write user manuals, etc.
 
 - company:
     name: University Of Tasmania
