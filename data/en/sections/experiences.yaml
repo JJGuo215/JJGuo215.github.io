@@ -18,9 +18,9 @@ experiences:
     end: Now
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Business requirement analysis, process mapping and gap analysis
-    - System implementation including Business Central/ Wiise and Sharperlight
-    - Project management and doucmentation
+    - Meeting with clients, conduct business requirement analysis and work on the business requirement documents. Investigate the gaps between the client's requirements and their existing systems, evaluating existing inefficiencies, and proposing how our solution can help to acheive the objectives.
+    - Data migration and system implementation including Business Central/ Wiise, KeyPay, Power Automate, Sharperlight, etc.
+    - Project management and doucmentation: monitor project progress, report to stakeholders, write user manuals, etc.
 
 - company:
     name: University Of Tasmania
@@ -47,7 +47,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Help customers to resolve technical issues such as password reset, missing deposit and website access failures through the Customer Management System(CMS).
-    - Provide services to online casino players via live chat.
+    - Provide services to online casino players.
     - Conduct market survey and promotions.
     - Handle customer complaints with positive attitude.
 
@@ -63,8 +63,7 @@ experiences:
     responsibilities:
     - Attending market investigation including visiting retailers and business partners to understand business operations. Analyze and document business requirements, project scopes, and business cases.
     - Identifying problems and issues of existing processes and working with project stakeholders to develop optimal processes and practices.
-    - Investigating the gaps between business requirements and existing company systems, evaluating existing inefficiencies, and proposing new features for company system functionalities.
-    - Attending the whole project cycle (waterfall or agile) , monitor the project milestones, prepare appraisal reports and host stakeholder meetings.
+    - Attending the whole project lifecycle (waterfall or agile) , monitor the project milestones, prepare appraisal reports and host stakeholder meetings.
 
 - company:
     name: Honeywell
