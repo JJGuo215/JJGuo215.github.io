@@ -16,7 +16,7 @@ company:
 
 
 # a summary about you
-summary: 'I have a Master Degree in Information Technology and Systems and have 5+ years IT project management experiences. I am PMP, ITIL and Six Sigma Green Belt certified. My other skills include system implementation, business analysis, quanlity assurance, CMMi.'
+summary: 'I have a Master Degree in Information Technology and Systems and have 6+ years IT project management experiences. I have implemented various systems for clients including Business Central, KeyPay, Power Automate, Sharperlight, etc. I am PMP, ITIL and Six Sigma Green Belt certified. My other specialties include business analysis, quality assurance, data migration (ETL), CMMi.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,20 +39,20 @@ badges:
   badge: "https://thinkthyme.com/wp-content/uploads/2018/04/Six-Sigma-in-project-managemen.jpg"
 - type: certification
   name: ITIL Foundation
-  url: "https://www.ddls.com.au/certificates/itil/"
-  badge: "https://alenia.io/wp-content/uploads/2020/01/ITIL-service-lifecycle-.png"
+  url: "https://www.bmc.com/blogs/itil-v3-introduction/"
+  badge: "https://s7280.pcdn.co/wp-content/uploads/2019/08/itil-processes.png"
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 95
+  percentage: 98
   color: yellow
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 90
+  percentage: 95
   color: blue
 - type: soft-skill-indicator
   name: Problem Solving
-  percentage: 90
+  percentage: 95
   color: orange
 
 
