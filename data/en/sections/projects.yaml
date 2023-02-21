@@ -16,8 +16,8 @@ buttons:
 
 # your projects
 projects:
-- name: System Implementation - Business Central, KeyPay, Power Automate, Sharperlight
-  role: System Implementation
+- name: System Implementation
+  role: Consultant
   timeline: "Jan 2022 - Now"
   summary: Assess current systems, define requirements for the new system, evaluate vendor selection, data migration and new system configuration, testing and training, system go-live, and on going support.
   tags: ["professional", "KeyPay", "Business Central", "Power Automate"]
