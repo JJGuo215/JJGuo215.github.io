@@ -19,8 +19,8 @@ projects:
 - name: System Implementation
   role: Consultant
   timeline: "Jan 2022 - Now"
-  summary: Assess current systems, define requirements for the new system, evaluate vendor selection, data migration and new system configuration, testing and training, system go-live, and on going support.
-  tags: ["professional", "KeyPay", "Business Central"]
+  summary: Assess current systems, define requirements for the new systems, evaluate vendor selection, data migration and new system configuration, testing, UAT and training, system go-live, and on going support.
+  tags: ["professional", "KeyPay", "WIISE"]
 
 - name: B2B e-commerce applications
   role: Project Manager
