@@ -22,13 +22,14 @@ experiences:
     - Investigate the gaps between the client's requirements and their existing systems, evaluating existing inefficiencies, and proposing how our solution can help to acheive the objectives.
     - Data migration and system implementation including Business Central/ Wiise, KeyPay, Power Automate, Sharperlight, etc.
     - Project management and documentation. Monitor project progress, report to stakeholders, write user manuals, etc.
+    - Support customers during project implementation, including solving ongoing issues, propose solutions, document user manuals, etc.
 
 - company:
     name: University Of Tasmania
     url: "https://www.utas.edu.au/"
     location: Hobart
   positions:
-  - designation: Researcher
+  - designation: Research Pathway at UTAS
     start: Jul 2020
     end: Jul 2021
     # give some points about what was your responsibilities at the company.
@@ -57,7 +58,7 @@ experiences:
     url: "https://www.ab-inbev.com/"
     location: Shanghai
   positions: 
-  - designation: IT Business Analyst
+  - designation: IT Project Supervisor (PMO)
     start: Apr 2014
     end: Aug 2017
     # give some points about what was your responsibilities at the company.
